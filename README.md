@@ -24,6 +24,3 @@ DAX & Power Query (Data transformation and calculated fields)
 🎯 Objective:
 To help organizations understand the drivers of employee attrition through data visualization and generate data-backed HR strategies for employee engagement and retention.
 
-📸 Sample Dashboard View:
-(Add a screenshot here showing your dashboard — optional but highly recommended)
-
