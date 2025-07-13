@@ -21,8 +21,6 @@ Excel / CSV (Data preparation)
 
 DAX & Power Query (Data transformation and calculated fields)
 
-📁 Dataset:
-
 🎯 Objective:
 To help organizations understand the drivers of employee attrition through data visualization and generate data-backed HR strategies for employee engagement and retention.
 
